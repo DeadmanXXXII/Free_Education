@@ -1,0 +1,187 @@
+If you are old enough and skilled enough to have completed the code yourself games read this list. It is not for anyone under 13 and the skills you learn can land you in jail if you use them incorrectly. 
+However, this said learning them gives you a major advantage in the future. Especially if you can't afford to go too university.
+This list will continue to grow the more I educate myself and update this entry with my already achieved cets, labs and more. If I did it you can too.
+
+This is just one fifth of the pages of the people that have taught me what I know.
+I will continue to expand this so you can learn what I have. the video list contains 389 videos, 70 courses with certificates, 19 badges, 11 without, I think its literally including coding IDE's packet tracer, VM's, self hosts etc. the home labs count come to about roughly 3000 or close to it, maybe more once this list is finished. 
+Obviosly catching up with my reporting admin this will contain links to Linkedin profiles, whatsapp channels, instagram accounts, discord servers, apps, documents, completion reports and so on. 
+Do not go anywhere else in this account unless you have at least 5 badges or certificates and 10 labs I have recommended or you may end up with broken equipment.
+
+Actual hacking sites that are free to learn in certain conditions like 2 hours per week on a Virtual Machine:
+
+https://hackthebox.com (STarting Point path, Crest CRT path)
+https://tryhackme.com (SOC ananlyst path)
+https://vulnhub.com (All machinees)
+https://dvwa.com (complete)
+
+Free educational sites they also have paid for products so be careful when navigating make sure the course price says free. If you need help ask a grown up I don't think your parents will care that you want extra homework this is just cool to do and know. I never had any issues with content access with these courses I did.
+
+https://apisecu.com (penetration testing, attached cars and fleets, fundamentals)
+https://isc2.com (C|C)
+https://simplilearn.com (CISSP, Data Science in R, CCNA fundamentals)
+https://ec-council.com (Introduction to dark web operation)
+https://cisconetacad.net (Ethical Hacking and another one I'll find later and add I dont want to say ive got something I have'nt.)
+https://harvardonline.com (CS50 no cert)
+https://mitonline.com (computer science fundamentals no cert)
+https;//microsoftlearn.com (Azure network ninja)
+https://googlecloudlearn.com  (Introduction to generative AI, google cloud architect, google cloud practitioner.
+https://sli;;sforall.net (CCNA7)
+https://linkinlearning.com (Loads)
+https://codeinstitute.com (5 day coding challenge repository included.)
+https://networkchuckacademy.com (all certs)
+https://tcmsecacademy.com (P|EH, PWST)
+https://antisyphontraining.com/paywhatyoucan (Mitre Att&ck, and another somewhere to be found in my files and as I went reports.) 
+
+This was a crazy education journey for the past few years I have all sorts from knowing nothing but using a computer for nothinng but watching telly and a free text service at the house. To a full on Purple team Architect. With all sorts of ideas for attacking,defending and clearly educating too. 
+
+Apps:
+AWS learning
+azure learn
+powershell learn
+learn to rust (Awesome has a book as a logo)
+
+
+
+If you get a certificate or a badge in some basic courses check out these YouTube videos they are my personal list of YouTube Professors with educational videos and follow along home labs that are all extremely successful in their individual fields. 
+They range from individual start-up entrepreneurs that hit the industry hard and grafted a reputation or they chiseled away with finesse and earned PhDs with masterpieces all of the information these people release is true and correct. 
+If they go a little to fast you can always pause catch up and continue. It may cost to subscribe to some of these but to view their information isn't and they still get viewer payments and advertising fees from you watching that's how to really hack the algorithm btw. 
+You get free education content paid for by the advertisement, hosting companies and sometimes the individual so always smash like please.
+Some of them do have their own websites where you can earn certificates and badges now.
+
+YouTube Professors list:
+
+This list to date has 65 entries in it.
+There order are not relevant in anyway.
+
+1:https://youtube.com/@themadhattersplayground?si=UxKQwNT1uTlxq20U (Me CyberShorts is awesome the rest is politics and religious views don’t watch them if you’re easily offended.)
+
+2:https://youtube.com/@loiliangyang?si=Q4qcwfs-BstYOmAE
+
+3:https://youtube.com/@tcmsecurityacademy?si=Oc0JSjtAbUzyTUKt
+
+4:https://youtube.com/@jaredderival4515?si=U94rzjuPD9eeF9O9
+
+5:https://youtube.com/@_johnhammond?si=9tlxzQOLWxURgu5N
+
+6:https://youtube.com/@letshack2083?si=1gwIHSH7SssuKBWp
+
+7:https://youtube.com/@nerimuraikondhar?si=WoTCZfsCcGIWApU6
+
+8:https://youtube.com/@networkchuck?si=O1XUKnhBDatRnxSB
+
+9:https://youtube.com/@antisyphontraining?si=8eMq3s0i6hgUPiKJ
+
+10:https://youtube.com/@0dayctf?si=ht-HsrYxEWtEv-2N
+
+11:https://youtube.com/@davidbombal?si=k841Gyk5_hxQTH9b
+
+12:https://youtube.com/@loiliangyang?si=Q4qcwfs-BstYOmAE
+
+13:https://youtube.com/@mobilehacker?si=a8OhnBNJCQ7FGo8J
+
+14:https://youtube.com/@cosmodiumcs?si=qQHL9-BMUBNMMfLt
+
+15:https://youtube.com/@solandy?si=W7C3xLDHNKbN5Chg
+
+16:https://youtube.com/@teema.everythingtech?si=zBhnyDcixIewf-bS
+
+17:https://youtube.com/@tech_sky?si=-VdBo4C641BMoP_Y
+
+18:https://youtube.com/@freethink?si=1TwGFAgAT7Tt13EW
+
+19:https://youtube.com/@cyberspatial?si=Wihexqvlgvbmnttk
+
+20:https://youtube.com/@divinetheclown?si=7qe_J0NLINjB3A1S
+
+21:https://youtube.com/@mattbrwn?si=D05p2w1mdI92uVbN
+
+22:https://youtube.com/@hacktheclown?si=YFk9R-nBVSytFT_v
+
+23:https://youtube.com/@cybernews?si=gTkxQ6ZIqQ7GJKZc
+
+24:https://youtube.com/@gotr00t0day?si=pm9SWs9p_7Y9XGyg
+
+25:https://youtu.be/PmtFtWVrxFE?si=KAo7uqXRI5cvWPT2
+
+26:https://youtube.com/@intrudersecurity?si=KFC8PzVIxpakINDY
+
+27:https://youtube.com/@darkwebassociation?si=n76P78-yS3-m3kBJ
+
+28:https://youtube.com/@hackerjohn?si=SmpYEuEdJSs07U8p
+
+29:https://youtube.com/@disruptreality?si=V-FIgL1NLQmqEFLB
+
+30:https://youtube.com/@reconinfosec7572?si=k2rCkXwm5wExw-S4
+
+31:https://youtube.com/@hackersploit?si=Pqxg8ZolAgC_ouB1
+
+32:https://youtube.com/@peterfairlie2296?si=dTfCozsYJHOZQUTy
+
+33:https://youtube.com/@privacymatters517?si=EdAC-6_48bttDwu8
+
+34:https://youtube.com/@mentaloutlaw?si=1m_Qu6ypzXng-HxO
+(The link above I personally don’t like him but his information is still correct and he is good he’s just a mega dick.)
+
+35:https://youtube.com/@aimistakesai?si=yN9BhB6ZBwW_-di7
+
+36:https://youtube.com/@z1l0x?si=aNtmLswZ6KXLWkuH
+
+37:https://youtube.com/@barelysociable?si=R_RoZ_6yj6b5NAhb
+
+38:https://youtube.com/@engineerman?si=DA8clE9Px7vX9oPm
+
+39:https://youtube.com/@jackrhysider?si=TUtJRfukN985oQvD
+
+40:https://youtube.com/@yanivhoffman?si=KiClXKrCUUPDLzys
+
+41:https://youtube.com/@joegrand?si=-VJk_3jO8-mD0nif
+
+42:https://youtube.com/@netbr1nger?si=oo04ITuL3gzC8Vax
+
+42:https://youtube.com/@polygonben?si=3MAXyT2XZ3arqc68
+
+43:https://youtube.com/@getcyber?si=eO4wUXVKlNobezkw
+
+44:https://youtube.com/@nerdslesson?si=sH2WXoGNo0JdGxPx
+
+45:https://youtube.com/@chillcircuit020?si=p1ooT8eMqBcHikYo
+
+46:https://youtube.com/@geeknesis?si=1xyq6usxrct5yLh_
+
+47:https://youtube.com/@majtomaszpawel?si=9Lwuw8oMyyz39wYU
+
+48:https://youtube.com/@crr0ww?si=JBfuvFP6rWcPTcuI
+
+49:https://youtube.com/@infosecmastery?si=vqEFJRChKQMvxiUG
+
+50:https://youtube.com/@an0n_ali?si=0RCWZdCX8yHi0x7q
+
+51:https://youtube.com/@plaintextpackets?si=_8QdeZEN4D1U1IiG
+
+52:https://youtube.com/@brancheducation?si=xQ99CJ_i_Nm_xd5L
+
+53:https://youtube.com/@academiclesson?si=tJWJkwPydIoSAFAj
+
+54:https://youtube.com/@preludeorg?si=lmNGjchx3_uVHrjP
+
+55:https://youtube.com/@zsecurity?si=U4dexAQz0qhxoQNJ
+
+56:https://youtube.com/@ebolaman_?si=vIuNH9uYh6hfl0gm
+
+57:https://youtube.com/@tacravencyberacademy?si=SflAwAJQA0vqgkxK
+
+58:https://youtube.com/@videoadvice?si=TBXiRgAa0DomWNXA
+
+59:https://youtube.com/@learnwithaqofficial?si=FzGVNGq6skcpVJeE
+
+60:https://youtube.com/@sudosecurity?si=m3hy_MIiASC6I-mS
+
+61:https://youtube.com/@ryan_phdsec?si=zd6hzGugZpD0pmdg
+
+62:https://youtube.com/@hackthebox?si=-vzf95ZuAsXW--Cn
+
+63:https://youtube.com/@marcdrouinaudjr?si=TGr94SyTYMNpt4wC
+
+64:https://youtube.com/@simplycyber?si=EHYpX6PlPqBt3wmO
+
+65:https://youtube.com/@thegaryruddell?si=ZTwmwdkflYBWLnPa
