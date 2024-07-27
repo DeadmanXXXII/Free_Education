@@ -28,7 +28,7 @@ Actual hacking sites that are free to learn under certain conditions (like 2 hou
 - vAPI
 - Aurora agent lite
 - Velociraptor
-- You can download from source forge or build some yourself.
+- You can download from source forge etc find a home lab or build some yourself and go.
 
 
 ## Free Educational Sites
