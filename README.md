@@ -13,7 +13,7 @@ This is just one-fifth of the pages of the people who have taught me what I know
 
 This list includes coding IDEs, packet tracer, VMs, self-hosts, etc. The home labs count comes to about roughly 3000 or close to it, maybe more once this list is finished. Obviously, catching up with my reporting admin, this will contain links to LinkedIn profiles, WhatsApp channels, Instagram accounts, Discord servers, apps, documents, completion reports, and so on. Do not go anywhere else in this account unless you have at least 5 badges or certificates and 10 labs I have recommended, or you may end up with broken equipment.
 
-## Free Hacking Sites
+## Free Hacking Sites (hosted), Labs and VMs (local)
 
 Actual hacking sites that are free to learn under certain conditions (like 2 hours per week on a Virtual Machine) Or local hosted options:
 
@@ -24,6 +24,10 @@ Actual hacking sites that are free to learn under certain conditions (like 2 hou
 - Damn Broken Web Application
 - Juice Shop
 - Metasploitable2
+- crAPI
+- vAPI
+- Aurora agent lite
+- Velociraptor
 - You can download from source forge or build some yourself.
 
 
