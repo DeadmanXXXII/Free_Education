@@ -15,12 +15,17 @@ This list includes coding IDEs, packet tracer, VMs, self-hosts, etc. The home la
 
 ## Free Hacking Sites
 
-Actual hacking sites that are free to learn under certain conditions (like 2 hours per week on a Virtual Machine):
+Actual hacking sites that are free to learn under certain conditions (like 2 hours per week on a Virtual Machine) Or local hosted options:
 
 - [Hack The Box](https://hackthebox.com) (Starting Point path, Crest CRT path)
 - [TryHackMe](https://tryhackme.com) (SOC Analyst path)
 - [VulnHub](https://vulnhub.com) (All machines)
 - [DVWA](https://dvwa.com) (Complete)
+- Damn Broken Web Application
+- Juice Shop
+- Metasploitable2
+- You can download from source forge or build some yourself.
+
 
 ## Free Educational Sites
 
@@ -39,7 +44,6 @@ Free educational sites; they also have paid products, so be careful when navigat
 - [LinkedIn Learning](https://linkinlearning.com) (Loads)
 - [Code Institute](https://codeinstitute.com) (5-Day Coding Challenge Repository included)
 - [Network Chuck Academy](https://networkchuckacademy.com) (All certs)
-- [TCM Security Academy](https://tcmsecacademy.com) (P|EH, PWST)
 - [Anti-Siphon Training](https://antisyphontraining.com/paywhatyoucan) (Mitre ATT&CK and other resources)
 
 ## Apps
@@ -48,6 +52,7 @@ Free educational sites; they also have paid products, so be careful when navigat
 - Azure Learn
 - PowerShell Learn
 - Learn to Rust (Awesome has a book as a logo)
+
 
 ## YouTube Professors List
 
