@@ -15,7 +15,7 @@ This list includes coding IDEs, packet tracer, VMs, self-hosts, etc. The home la
 
 ## Free Hacking Sites (hosted), Labs and VMs (local)
 
-Actual hacking sites that are free to learn under certain conditions (like 2 hours per week on a Virtual Machine) Or local hosted options:
+Actual hacking sites that are free to learn oabs under certain conditions (like 2 hours per week on a Virtual Machine) Or local hosted options:
 
 - [Hack The Box](https://hackthebox.com) (Starting Point path, Crest CRT path)
 - [TryHackMe](https://tryhackme.com) (SOC Analyst path)
@@ -28,7 +28,8 @@ Actual hacking sites that are free to learn under certain conditions (like 2 hou
 - vAPI
 - Aurora agent lite
 - Velociraptor
-- 
+- Wireshark
+- [Clijacking lab] (
 - You can download from source forge etc find a home lab or build some yourself and go.
 
 
@@ -36,7 +37,7 @@ Actual hacking sites that are free to learn under certain conditions (like 2 hou
 
 Free educational sites; they also have paid products, so be careful when navigating. Make sure the course price says free. If you need help, ask a grown-up; I don’t think your parents will mind you wanting extra homework. I never had any issues with content access with these courses.
 
-- [API Secu](https://apisecu.com) (Penetration Testing, Attached Cars and Fleets, Fundamentals)
+- [APISecU](https://apisecu.com) (Penetration Testing, Attached Cars and Fleets, Fundamentals)
 - [ISC2](https://isc2.com) (C|C)
 - [Simplilearn](https://simplilearn.com) (CISSP, Data Science in R, CCNA Fundamentals)
 - [EC-Council](https://ec-council.com) (Introduction to Dark Web Operation)
