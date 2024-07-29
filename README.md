@@ -29,7 +29,7 @@ Actual hacking sites that are free to learn oabs under certain conditions (like 
 - Aurora agent lite
 - Velociraptor
 - Wireshark
-- [Clijacking lab] (https://github.com/DeadmanXXXII/Clickjacking/blob/main/ClickjackLabAndroid.md) (I built this myself.)
+- [Clijacking lab](https://github.com/DeadmanXXXII/Clickjacking/blob/main/ClickjackLabAndroid.md) (I built this myself.)
 - You can download from source forge etc find a home lab or build some yourself and go.
 
 
