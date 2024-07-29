@@ -64,38 +64,73 @@ Free educational sites; they also have paid products, so be careful when navigat
 If you get a certificate or a badge in some basic courses, check out these YouTube channels. They are my personal list of YouTube educators with educational videos and follow-along home labs that are all extremely successful in their individual fields. The order is not relevant.
 
 1. [The Mad Hatters Playground](https://youtube.com/@themadhattersplayground?si=UxKQwNT1uTlxq20U)
+
 2. [Loiliang Yang](https://youtube.com/@loiliangyang?si=Q4qcwfs-BstYOmAE)
+
 3. [TCM Security Academy](https://youtube.com/@tcmsecurityacademy?si=Oc0JSjtAbUzyTUKt)
+
 4. [Jared Derival](https://youtube.com/@jaredderival4515?si=U94rzjuPD9eeF9O9)
+
 5. [John Hammond](https://youtube.com/@_johnhammond?si=9tlxzQOLWxURgu5N)
+
 6. [Let's Hack](https://youtube.com/@letshack2083?si=1gwIHSH7SssuKBWp)
+
 7. [Nerimuraikondhar](https://youtube.com/@nerimuraikondhar?si=WoTCZfsCcGIWApU6)
+
 8. [Network Chuck](https://youtube.com/@networkchuck?si=O1XUKnhBDatRnxSB)
+
 9. [Anti-Siphon Training](https://youtube.com/@antisyphontraining?si=8eMq3s0i6hgUPiKJ)
+
 10. [0Day CTF](https://youtube.com/@0dayctf?si=ht-HsrYxEWtEv-2N)
+
 11. [David Bombal](https://youtube.com/@davidbombal?si=k841Gyk5_hxQTH9b)
+
 12. [Loiliang Yang](https://youtube.com/@loiliangyang?si=Q4qcwfs-BstYOmAE)
+
 13. [Mobile Hacker](https://youtube.com/@mobilehacker?si=a8OhnBNJCQ7FGo8J)
+
 14. [Cosmodium CS](https://youtube.com/@cosmodiumcs?si=qQHL9-BMUBNMMfLt)
+
 15. [Solandy](https://youtube.com/@solandy?si=W7C3xLDHNKbN5Chg)
+
 16. [Teema Everything Tech](https://youtube.com/@teema.everythingtech?si=zBhnyDcixIewf-bS)
+
 17. [Tech Sky](https://youtube.com/@tech_sky?si=-VdBo4C641BMoP_Y)
+
 18. [Freethink](https://youtube.com/@freethink?si=1TwGFAgAT7Tt13EW)
+
 19. [Cyberspatial](https://youtube.com/@cyberspatial?si=Wihexqvlgvbmnttk)
+
 20. [Divine the Clown](https://youtube.com/@divinetheclown?si=7qe_J0NLINjB3A1S)
+
 21. [Matt Brwn](https://youtube.com/@mattbrwn?si=D05p2w1mdI92uVbN)
+
 22. [Hack the Clown](https://youtube.com/@hacktheclown?si=YFk9R-nBVSytFT_v)
+
 23. [Cyber News](https://youtube.com/@cybernews?si=gTkxQ6ZIqQ7GJKZc)
+
 24. [Go Tr00t 0day](https://youtube.com/@gotr00t0day?si=pm9SWs9p_7Y9XGyg)
+
 25. [Video](https://youtu.be/PmtFtWVrxFE?si=KAo7uqXRI5cvWPT2)
+
 26. [Intruder Security](https://youtube.com/@intrudersecurity?si=KFC8PzVIxpakINDY)
+
 27. [Dark Web Association](https://youtube.com/@darkwebassociation?si=n76P78-yS3-m3kBJ)
+
 28. [Hacker John](https://youtube.com/@hackerjohn?si=SmpYEuEdJSs07U8p)
+
 29. [Disrupt Reality](https://youtube.com/@disruptreality?si=V-FIgL1NLQmqEFLB)
+
 30. [Recon InfoSec](https://youtube.com/@reconinfosec7572?si=k2rCkXwm5wExw-S4)
+
 31. [Hackersploit](https://youtube.com/@hackersploit?si=Pqxg8ZolAgC_ouB1)
+
 32. [Peter Fairlie](https://youtube.com/@peterfairlie2296?si=dTfCozsYJHOZQUTy)
+
 33. [Privacy Matters](https://youtube.com/@privacymatters517?si=EdAC-6_48bttDwu8)
+
 34. [Mental Outlaw](https://youtube.com/@mentaloutlaw?si=1m_Qu6ypzXng-HxO)
+
 35. [Aim Mistakes AI](https://youtube.com/@aimistakesai?si=yN9BhB6ZBwW_-di7)
+
 36.[Z1L0x](https://youtube.com/@z1l0x?si=aNtmLswZ6KXLWkuH
