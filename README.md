@@ -96,6 +96,6 @@ If you get a certificate or a badge in some basic courses, check out these YouTu
 31. [Hackersploit](https://youtube.com/@hackersploit?si=Pqxg8ZolAgC_ouB1)
 32. [Peter Fairlie](https://youtube.com/@peterfairlie2296?si=dTfCozsYJHOZQUTy)
 33. [Privacy Matters](https://youtube.com/@privacymatters517?si=EdAC-6_48bttDwu8)
-34. [Mental Outlaw](https://youtube.com/@mentaloutlaw?si=1m_Qu6ypzXng-HxO) (The link above I personally don’t like him, but his information is still correct.)
+34. [Mental Outlaw](https://youtube.com/@mentaloutlaw?si=1m_Qu6ypzXng-HxO)
 35. [Aim Mistakes AI](https://youtube.com/@aimistakesai?si=yN9BhB6ZBwW_-di7)
-36. [Z1L0x](https://youtube.com/@z1l0x?si=aNtmLswZ6KXLWkuH
+36.[Z1L0x](https://youtube.com/@z1l0x?si=aNtmLswZ6KXLWkuH
