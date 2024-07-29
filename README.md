@@ -28,6 +28,7 @@ Actual hacking sites that are free to learn under certain conditions (like 2 hou
 - vAPI
 - Aurora agent lite
 - Velociraptor
+- 
 - You can download from source forge etc find a home lab or build some yourself and go.
 
 
@@ -62,7 +63,7 @@ Free educational sites; they also have paid products, so be careful when navigat
 
 If you get a certificate or a badge in some basic courses, check out these YouTube channels. They are my personal list of YouTube educators with educational videos and follow-along home labs that are all extremely successful in their individual fields. The order is not relevant.
 
-1. [The Mad Hatters Playground](https://youtube.com/@themadhattersplayground?si=UxKQwNT1uTlxq20U) (Me CyberShorts is awesome; the rest is politics and religious views—don’t watch them if you’re easily offended.)
+1. [The Mad Hatters Playground](https://youtube.com/@themadhattersplayground?si=UxKQwNT1uTlxq20U)
 2. [Loiliang Yang](https://youtube.com/@loiliangyang?si=Q4qcwfs-BstYOmAE)
 3. [TCM Security Academy](https://youtube.com/@tcmsecurityacademy?si=Oc0JSjtAbUzyTUKt)
 4. [Jared Derival](https://youtube.com/@jaredderival4515?si=U94rzjuPD9eeF9O9)
