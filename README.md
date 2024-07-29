@@ -133,4 +133,4 @@ If you get a certificate or a badge in some basic courses, check out these YouTu
 
 35. [Aim Mistakes AI](https://youtube.com/@aimistakesai?si=yN9BhB6ZBwW_-di7)
 
-36.[Z1L0x](https://youtube.com/@z1l0x?si=aNtmLswZ6KXLWkuH
+36. [Z1L0x](https://youtube.com/@z1l0x?si=aNtmLswZ6KXLWkuH)
