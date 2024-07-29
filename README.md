@@ -112,7 +112,7 @@ If you get a certificate or a badge in some basic courses, check out these YouTu
 
 24. [Go Tr00t 0day](https://youtube.com/@gotr00t0day?si=pm9SWs9p_7Y9XGyg)
 
-25. [Video](https://youtu.be/PmtFtWVrxFE?si=KAo7uqXRI5cvWPT2)
+25. [The kids who hacked the CIA](https://youtu.be/PmtFtWVrxFE?si=KAo7uqXRI5cvWPT2)
 
 26. [Intruder Security](https://youtube.com/@intrudersecurity?si=KFC8PzVIxpakINDY)
 
