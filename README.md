@@ -86,7 +86,7 @@ If you get a certificate or a badge in some basic courses, check out these YouTu
 
 11. [David Bombal](https://youtube.com/@davidbombal?si=k841Gyk5_hxQTH9b)
 
-12. [Loiliang Yang](https://youtube.com/@loiliangyang?si=Q4qcwfs-BstYOmAE)
+12. [Get Cyber](https://youtu.be/8R2xPeVad78?si=G682rwNZw4msY4Wu)
 
 13. [Mobile Hacker](https://youtube.com/@mobilehacker?si=a8OhnBNJCQ7FGo8J)
 
