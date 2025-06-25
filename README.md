@@ -52,6 +52,8 @@ Free educational sites; they also have paid products, so be careful when navigat
 - [Network Chuck Academy](https://networkchuckacademy.com) (All certs)
 - [Anti-Siphon Training](https://antisyphontraining.com/paywhatyoucan) (Mitre ATT&CK and other resources)
 
+- [CourseStack - Red Team Leaders](https://redteamleaders.coursestack.com) 
+
 ## Apps
 
 - AWS Learning
