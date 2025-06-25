@@ -43,7 +43,7 @@ Free educational sites; they also have paid products, so be careful when navigat
 - [ISC2](https://isc2.com) (C|C)
 - [Simplilearn](https://simplilearn.com) (CISSP, Data Science in R, CCNA Fundamentals)
 - [EC-Council](https://ec-council.com) (Introduction to Dark Web Operation)
-- [Cisco NetAcad](https://cisconetacad.net) (Ethical Hacking and another course to be added later)
+- [Cisco NetAcad](https://cisconetacad.net) (Ethical Hacking and CCNA)
 - [Harvard Online](https://harvardonline.com) (CS50 no cert)
 - [MIT Online](https://mitonline.com) (Computer Science Fundamentals no cert)
 - [Microsoft Learn](https://microsoftlearn.com) (Azure Network Ninja)
@@ -54,7 +54,7 @@ Free educational sites; they also have paid products, so be careful when navigat
 - [Network Chuck Academy](https://networkchuckacademy.com) (All certs)
 - [Anti-Siphon Training](https://antisyphontraining.com/paywhatyoucan) (Mitre ATT&CK and other resources)
 
-- [CourseStack - Red Team Leaders](https://redteamleaders.coursestack.com) 
+- [CourseStack - Red Team Leaders](https://redteamleaders.coursestack.com) (WRTO_API, AV/EDR Evasion)
 
 ## Apps
 
