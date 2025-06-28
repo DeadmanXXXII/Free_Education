@@ -21,6 +21,10 @@ Actual hacking sites that are free to learn oabs under certain conditions (like 
 - [TryHackMe](https://tryhackme.com) (SOC Analyst path)
 - [VulnHub](https://vulnhub.com) (All machines)
 - [DVWA](https://dvwa.com) (Complete)
+- [Clijacking lab](https://github.com/DeadmanXXXII/Clickjacking/blob/main/ClickjackLabAndroid.md) (I built this myself.)
+- [Pwned Labs](https://pwnedlabs.io)
+- [PentesterLabs](https://pentesterlab.com/) 
+- [CyberWarfare Labs](https://cyberwarfare.live/) (Freebies)
 - Damn Broken Web Application
 - Juice Shop
 - Metasploitable2
@@ -29,9 +33,6 @@ Actual hacking sites that are free to learn oabs under certain conditions (like 
 - Aurora agent lite
 - Velociraptor
 - Wireshark
-- [Clijacking lab](https://github.com/DeadmanXXXII/Clickjacking/blob/main/ClickjackLabAndroid.md) (I built this myself.)
-- [Pwned Labs](https://pwnedlabs.io)
-- [PentesterLabs](https://pentesterlab.com/) 
 - You can download from source forge etc find a home lab or build some yourself and go.
 
 
@@ -53,8 +54,9 @@ Free educational sites; they also have paid products, so be careful when navigat
 - [Code Institute](https://codeinstitute.com) (5-Day Coding Challenge Repository included)
 - [Network Chuck Academy](https://networkchuckacademy.com) (All certs)
 - [Anti-Siphon Training](https://antisyphontraining.com/paywhatyoucan) (Mitre ATT&CK and other resources)
-
 - [CourseStack - Red Team Leaders](https://redteamleaders.coursestack.com) (WRTO_API, AV/EDR Evasion)
+- [Cyafrin.io Blockchain a d smart contract security.](https://updraft.cyfrin.io) (SCSA)
+
 
 ## Apps
 
