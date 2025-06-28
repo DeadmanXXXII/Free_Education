@@ -54,8 +54,8 @@ Free educational sites; they also have paid products, so be careful when navigat
 - [Code Institute](https://codeinstitute.com) (5-Day Coding Challenge Repository included)
 - [Network Chuck Academy](https://networkchuckacademy.com) (All certs)
 - [Anti-Siphon Training](https://antisyphontraining.com/paywhatyoucan) (Mitre ATT&CK and other resources)
-- [CourseStack - Red Team Leaders](https://redteamleaders.coursestack.com) (WRTO_API, AV/EDR Evasion)
-- [Cyafrin.io Blockchain a d smart contract security.](https://updraft.cyfrin.io) (SCSA)
+- [CourseStack - Red Team Leaders](https://redteamleaders.coursestack.com) (WRTO_API, AV/EDR Evasion. Once you have completed these find the tutors LinkedIn and follow through the C2, APT rec and windows red team labs available via video. I'm not telling you his name if you're this far along it shouldn't take you long.)
+- [Cyafrin.io Blockchain and smart contract security.](https://updraft.cyfrin.io) (SCSA)
 
 
 ## Apps
