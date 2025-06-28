@@ -22,9 +22,9 @@ Actual hacking sites that are free to learn oabs under certain conditions (like 
 - [VulnHub](https://vulnhub.com) (All machines)
 - [DVWA](https://dvwa.com) (Complete)
 - [Clijacking lab](https://github.com/DeadmanXXXII/Clickjacking/blob/main/ClickjackLabAndroid.md) (I built this myself.)
-- [Pwned Labs](https://pwnedlabs.io)
+- [Pwned Labs](https://pwnedlabs.io) (watch professor 38 when you get here.)
 - [PentesterLabs](https://pentesterlab.com/) 
-- [CyberWarfare Labs](https://cyberwarfare.live/) (Freebies)
+- [CyberWarfare Labs](https://cyberwarfare.live/) (Freebies especially the APT recreations.)
 - Damn Broken Web Application
 - Juice Shop
 - Metasploitable2
@@ -143,3 +143,5 @@ If you get a certificate or a badge in some basic courses, check out these YouTu
 36. [Z1L0x](https://youtube.com/@z1l0x?si=aNtmLswZ6KXLWkuH)
 
 37. [IPPSEC Start here and with starting point on htb](https://youtube.com/@ippsec?si=MfU3_L0li0LlJ_e1)
+
+38. [HackSmarter](https://youtube.com/@tylerramsbey?si=X6JGxqAY8gnCO3yU)
