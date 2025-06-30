@@ -25,6 +25,7 @@ Actual hacking sites that are free to learn oabs under certain conditions (like 
 - [Pwned Labs](https://pwnedlabs.io) (watch professor 38 when you get here.)
 - [PentesterLabs](https://pentesterlab.com/) 
 - [CyberWarfare Labs](https://cyberwarfare.live/) (Freebies especially the APT recreations.)
+- [Labex](https://labex.io/) 
 - Damn Broken Web Application
 - Juice Shop
 - Metasploitable2
