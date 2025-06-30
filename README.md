@@ -1,8 +1,8 @@
 # Free_Education
 
 ## Table of Contents
-- [1.Free Hacking Sites](#free-hacking-sites)
-- [2.Free Educational Sites](#free-educational-sites-(hosted)-labs-and-vms (local))
+- [1.Free Hacking Sites](#free-hacking-sites(hosted)-labs-and-vms-(local))
+- [2.Free Educational Sites](#free-educational-sites)
 - [3.Apps](#apps)
 - [4.YouTube Professors List](#youtube-professors-list)
 
