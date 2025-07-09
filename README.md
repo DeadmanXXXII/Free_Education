@@ -60,6 +60,8 @@ Free educational sites; they also have paid products, so be careful when navigat
 - [Google Cloud Learn](https://googlecloudlearn.com) (Introduction to Generative AI, Google Cloud Architect, Google Cloud Practitioner)
 - [Skills For All](https://skillsforall.net) (CCNA7)
 - [LinkedIn Learning](https://linkinlearning.com) (Loads)
+- [ITMasters/Sturt University free short courses](https://itmasters.edu.au/free-university-short-courses/?course=cybersecurity)
+(The pentesting lab comes with a .ova custom machine its pretty basic but still fun.)
 - [Code Institute](https://codeinstitute.com) (5-Day Coding Challenge Repository included)
 - [Network Chuck Academy](https://networkchuckacademy.com) (All certs)
 - [Anti-Siphon Training](https://antisyphontraining.com/paywhatyoucan) (Mitre ATT&CK and other resources)
