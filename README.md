@@ -24,7 +24,7 @@ This list includes coding IDEs, packet tracer, VMs, self-hosts, etc. The home la
 (hosted), Labs and VMs (local)
 Actual hacking sites that are free to learn oabs under certain conditions (like 2 hours per week on a Virtual Machine) Or local hosted options:
 
-- [Hack The Box](https://hackthebox.com) (Starting Point path, Crest CRT path watch professor 36 here)
+- [Hack The Box](https://hackthebox.com) (Starting Point path, Crest CRT path watch professor 37 here)
 - [TryHackMe](https://tryhackme.com) (SOC Analyst path)
 - [VulnHub](https://vulnhub.com) (All machines)
 - [DVWA](https://dvwa.com) (Complete)
