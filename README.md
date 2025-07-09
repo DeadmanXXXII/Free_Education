@@ -11,6 +11,7 @@ It is not for anyone under 13, and the skills you learn can land you in jail if 
 
 This is just one-fifth of the pages of the people who have taught me what I know. I will continue to expand this so you can learn what I have. The video list contains:
 
+#### These are now wrong since updating.
 - 389 videos
 - 70 courses with certificates
 - 19 badges
@@ -62,8 +63,14 @@ Free educational sites; they also have paid products, so be careful when navigat
 - [Code Institute](https://codeinstitute.com) (5-Day Coding Challenge Repository included)
 - [Network Chuck Academy](https://networkchuckacademy.com) (All certs)
 - [Anti-Siphon Training](https://antisyphontraining.com/paywhatyoucan) (Mitre ATT&CK and other resources)
-- [CourseStack - Red Team Leaders](https://redteamleaders.coursestack.com) (WRTO_API, AV/EDR Evasion. Once you have completed these find the tutors LinkedIn and follow through the C2, APT rec and windows red team labs available via video. I'm not telling you his name if you're this far along it shouldn't take you long.)
+- [CourseStack - Red Team Leaders](https://redteamleaders.coursestack.com) (WRTO_API, AV/EDR Evasion. Once you have completed these find the tutors LinkedIn and follow through the C2, APT rec and windows red team labs available via video. I'm not telling you his name if you're this far along it shouldn't take you long to find them.)
 - [Cyafrin.io Blockchain and smart contract security.](https://updraft.cyfrin.io) (SCSA)
+
+- [SecOps Group Mock Exams](https://pentestingexams.com/mock-pentesting-exams/)
+Running through these will prove how far you've come and when you ace the professional and expert level mock exams like:
+(CAPenX) and (C-AI/MLPen)
+
+
 
 
 ## Apps
