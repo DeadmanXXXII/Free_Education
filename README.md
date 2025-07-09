@@ -69,6 +69,7 @@ Free educational sites; they also have paid products, so be careful when navigat
 - [SecOps Group Mock Exams](https://pentestingexams.com/mock-pentesting-exams/)
 Running through these will prove how far you've come and when you ace the professional and expert level mock exams like:
 (CAPenX) and (C-AI/MLPen)
+Watch out for the giveaways I got my CNSP free in one.
 
 
 
