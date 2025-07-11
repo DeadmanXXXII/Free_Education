@@ -50,7 +50,7 @@ Actual hacking sites that are free to learn oabs under certain conditions (like 
 
 - [Clijacking lab](https://github.com/DeadmanXXXII/Clickjacking/blob/main/ClickjackLabAndroid.md) (I built this too.)
 
--[Red_Team_Exercises](https://github.com/CyberSecurityUP/Red-Team-Exercises)
+- [Red_Team_Exercises](https://github.com/CyberSecurityUP/Red-Team-Exercises)
 
 
 ## Free Educational Sites
