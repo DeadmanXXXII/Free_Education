@@ -2,9 +2,10 @@
 
 ## Table of Contents
 - [1.Free Hacking Sites](#free-hacking-sites)
-- [2.Free Educational Sites](#free-educational-sites)
-- [3.Apps](#apps)
-- [4.YouTube Professors List](#youtube-professors-list)
+- [2.Free Home Labs](#free-home-labs)
+- [3.Free Educational Sites](#free-educational-sites)
+- [4.Apps](#apps)
+- [5.YouTube Professors List](#youtube-professors-list)
 
 **If you are old enough and skilled enough to have completed the code yourself, read this list.**  
 It is not for anyone under 13, and the skills you learn can land you in jail if used incorrectly. However, learning them gives you a major advantage in the future, especially if you can’t afford university. This list will continue to grow as I educate myself and update this entry with my already achieved certifications, labs, and more. If I did it, you can too.
@@ -28,7 +29,6 @@ Actual hacking sites that are free to learn oabs under certain conditions (like 
 - [TryHackMe](https://tryhackme.com) (SOC Analyst path)
 - [VulnHub](https://vulnhub.com) (All machines)
 - [DVWA](https://dvwa.com) (Complete)
-- [Clijacking lab](https://github.com/DeadmanXXXII/Clickjacking/blob/main/ClickjackLabAndroid.md) (I built this myself.)
 - [Pwned Labs](https://pwnedlabs.io) (watch professor 38 when you get here.)
 - [PentesterLabs](https://pentesterlab.com/) 
 - [CyberWarfare Labs](https://cyberwarfare.live/) (Freebies especially the APT recreations.)
@@ -42,6 +42,15 @@ Actual hacking sites that are free to learn oabs under certain conditions (like 
 - Velociraptor
 - Wireshark
 - You can download from source forge etc find a home lab or build some yourself and go.
+
+## Free Home Labs
+
+- [Advanced XSS Lab](https://github.com/DeadmanXXXII/Advanced_XSS_LAB)
+(I built this.)
+
+- [Clijacking lab](https://github.com/DeadmanXXXII/Clickjacking/blob/main/ClickjackLabAndroid.md) (I built this too.)
+
+-[Red_Team_Exercises](https://github.com/CyberSecurityUP/Red-Team-Exercises)
 
 
 ## Free Educational Sites
@@ -65,7 +74,8 @@ Free educational sites; they also have paid products, so be careful when navigat
 - [Code Institute](https://codeinstitute.com) (5-Day Coding Challenge Repository included)
 - [Network Chuck Academy](https://networkchuckacademy.com) (All certs)
 - [Anti-Siphon Training](https://antisyphontraining.com/paywhatyoucan) (Mitre ATT&CK and other resources)
-- [CourseStack - Red Team Leaders](https://redteamleaders.coursestack.com) (WRTO_API, AV/EDR Evasion. Once you have completed these find the tutors LinkedIn and follow through the C2, APT rec and windows red team labs available via video. I'm not telling you his name if you're this far along it shouldn't take you long to find them.)
+- [CourseStack - Red Team Leaders](https://redteamleaders.coursestack.com) (WRTO_API, AV/EDR Evasion. Once you have completed these find the tutors LinkedIn and follow through the C2, APT rec and windows red team labs walkthroughs available via video and the exercises here: [Red Team Exercises](https://github.com/CyberSecurityUP/Red-Team-Exercises)
+
 - [Cyafrin.io Blockchain and smart contract security.](https://updraft.cyfrin.io) (SCSA)
 
 - [SecOps Group Mock Exams](https://pentestingexams.com/mock-pentesting-exams/)
