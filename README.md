@@ -33,15 +33,7 @@ Actual hacking sites that are free to learn oabs under certain conditions (like 
 - [PentesterLabs](https://pentesterlab.com/) 
 - [CyberWarfare Labs](https://cyberwarfare.live/) (Freebies especially the APT recreations.)
 - [Labex](https://labex.io/) 
-- Damn Broken Web Application
-- Juice Shop
-- Metasploitable2
-- crAPI
-- vAPI
-- Aurora agent lite
-- Velociraptor
-- Wireshark
-- You can download from source forge etc find a home lab or build some yourself and go.
+
 
 ## Free Home Labs
 
@@ -52,10 +44,21 @@ Actual hacking sites that are free to learn oabs under certain conditions (like 
 
 - [Red_Team_Exercises](https://github.com/CyberSecurityUP/Red-Team-Exercises)
 
+Others:
+- Damn Broken Web Application
+- Juice Shop
+- Metasploitable2
+- crAPI
+- vAPI
+- Aurora agent lite
+- Velociraptor
+- Wireshark
+- You can download some from source forge etc find a home lab or build some yourself.
+
 
 ## Free Educational Sites
 
-Free educational sites; they also have paid products, so be careful when navigating. Make sure the course price says free. If you need help, ask a grown-up; I don’t think your parents will mind you wanting extra homework. I never had any issues with content access with these courses.
+Free educational sites; they also-rans have paid products, so be careful when navigating. Make sure the course price says free. If you need help, ask a grown-up; I don’t think your parents will mind you wanting extra homework. I never had any issues with content access with these courses.
 
 - [TCM Security](https://academy.tcm-sec.com/)
 - [APISecU](https://apisecu.com) (Penetration Testing, Attached Cars and Fleets, Fundamentals)
