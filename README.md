@@ -32,7 +32,9 @@ Actual hacking sites that are free to learn oabs under certain conditions (like 
 - [Pwned Labs](https://pwnedlabs.io) (watch professor 38 when you get here.)
 - [PentesterLabs](https://pentesterlab.com/) 
 - [CyberWarfare Labs](https://cyberwarfare.live/) (Freebies especially the APT recreations.)
-- [Labex](https://labex.io/) 
+- [Labex](https://labex.io/)
+- [Fast food hacking site](https://www.bugbountytraining.com/fastfoodhackings/)
+- [bug bounty hunter training](https://www.bugbountyhunter.com/training/)
 
 
 ## Free Home Labs
