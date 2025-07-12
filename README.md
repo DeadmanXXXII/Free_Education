@@ -63,6 +63,8 @@ Others:
 Free educational sites; they also-rans have paid products, so be careful when navigating. Make sure the course price says free. If you need help, ask a grown-up; I don’t think your parents will mind you wanting extra homework. I never had any issues with content access with these courses.
 
 - [TCM Security](https://academy.tcm-sec.com/)
+- [CSbyGB TCM setup and resources](https://github.com/CSbyGB/Practical-Ethical-Hacking-Resources)
+- [Gabrielle B hacker of the year 2022](https://github.com/CSbyGB)
 - [APISecU](https://apisecu.com) (Penetration Testing, Attached Cars and Fleets, Fundamentals)
 - [ISC2](https://isc2.com) (C|C)
 - [Simplilearn](https://simplilearn.com) (CISSP, Data Science in R, CCNA Fundamentals)
@@ -88,6 +90,7 @@ Running through these will prove how far you've come and when you ace the profes
 (CAPenX) and (C-AI/MLPen)
 Watch out for the giveaways I got my CNSP free in one.
 
+[Gabrielle B hacker of the year 2022](https://github.com/CSbyGB)
 
 
 
