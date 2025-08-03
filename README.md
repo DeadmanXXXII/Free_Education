@@ -90,7 +90,7 @@ Running through these will prove how far you've come and when you ace the profes
 (CAPenX) and (C-AI/MLPen)
 Watch out for the giveaways I got my CNSP free in one.
 
-[Gabrielle B hacker of the year 2022](https://github.com/CSbyGB)
+
 
 
 
